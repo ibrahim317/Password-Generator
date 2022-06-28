@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass&family=Poppins:ital,wght@1,300&display=swap");
+body {
+  margin: 0;
+  font-family: "Overpass", sans-serif;
+}
+
+.container {
+  background-color: #3f0d12;
+  background-image: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);
+  background-attachment: fixed;
+  width: 100vw;
+  height: 100vh;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  border-radius: 4%;
+  box-shadow: #5de6de 0px 0px 80px;
+  width: 30vw;
+  height: 50vh;
+  background-color: white;
+}
+.password {
+  font-size: 1.4rem;
+  margin: 2vw;
+  height: 6%;
+  text-align: center;
+}
+hr {
+  align-self: flex-start;
+}
+button {
+  height: 16%;
+  background-color: gold;
+  border-radius: 4%;
+}
+input {
+  margin-left: 3%;
+  flex-grow: 1;
+}
+div {
+  flex-wrap: nowrap;
+}
+.con {
+  display: flex;
+  justify-content: space-between;
+}
+.green {
+  background-color: greenyellow;
+}
