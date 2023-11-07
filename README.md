@@ -3,9 +3,9 @@ Password generator that creates random password with a frindly UI! :grin:
 
 
 
-![imgonline-com-ua-twotoone-COgEcii5vSObfIQ](https://user-images.githubusercontent.com/74654255/176190629-1ce7761f-e430-42b9-a9ef-12ad1c3800cf.jpg)
+![imgonline-com-ua-twotoone-1mfgfx68fO](https://github.com/ibrahim317/Password-Generator/assets/74654255/80d89429-b28e-482a-b485-d7be7abfd602)
 
-
+![imgonline-com-ua-compressed-ygz9yYrwSnMlo](https://github.com/ibrahim317/Password-Generator/assets/74654255/70d76155-bfe7-485f-9991-61ea1ffb65a5)
 
 
 ## About the project :raised_hand_with_fingers_splayed:	
