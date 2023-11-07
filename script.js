@@ -1,7 +1,7 @@
-const a = document.getElementById("btn");
-const b = document.getElementById("pass");
+const a = document.getElementById("main-btn");
+const b = document.getElementById("password");
 const f = document.getElementById("len");
-const card = document.getElementById("card");
+const group = document.getElementById("bottom-group");
 const btn = document.createElement("button");
 let first = true;
 //check if the length is less than 8 or more than 20
@@ -26,8 +26,9 @@ a.onclick = () => {
   if (first) {
     b.innerHTML = generatePassword(f.value);
     btn.classList.add("green");
+    btn.id = "copy";
     btn.innerHTML = "Copy password";
-    card.insertBefore(btn, card.children[2]);
+    group.insertBefore(btn, group.children[1]);
     a.innerHTML = "Generate again";
     first = false;
   } else {
